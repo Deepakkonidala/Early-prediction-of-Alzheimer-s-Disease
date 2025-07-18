@@ -1,0 +1,1 @@
+This project focuses on predicting the presence of Alzheimer's Disease using Machine Learning techniques. It involves data preprocessing, exploratory data analysis, model training, evaluation, and visualization to build an effective predictive model.
